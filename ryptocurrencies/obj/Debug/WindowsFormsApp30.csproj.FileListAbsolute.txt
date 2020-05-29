@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\LabNabludateli\bin\Debug\WindowsFormsApp30.exe.config
+C:\Users\Admin\Desktop\LabNabludateli\bin\Debug\WindowsFormsApp30.exe
+C:\Users\Admin\Desktop\LabNabludateli\bin\Debug\WindowsFormsApp30.pdb
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.Form1.resources
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.exe
+C:\Users\Admin\Desktop\LabNabludateli\obj\Debug\WindowsFormsApp30.pdb
